@@ -84,7 +84,7 @@ mycon = pymysql.connect(
 
 
 
-python todolist.py
+ to do list.py
 
 
 ---
