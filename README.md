@@ -121,6 +121,13 @@ Select a task → Click Delete to remove it permanently.
 
 📸 GUI Preview
 
+tkinter's gui
+
+![Alt text](https://github.com/banu06764-blip/tkinter-to-do-list/blob/e3ab2bf0ed1173c9521f6c27b1734dcfda59dc0f/20250804_073737.jpg)
+
+
+mysql's image
+![Alt text](https://github.com/banu06764-blip/tkinter-to-do-list/blob/e3ab2bf0ed1173c9521f6c27b1734dcfda59dc0f/20250804_073754.jpg)
 
 
 
