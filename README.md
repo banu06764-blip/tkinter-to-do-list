@@ -84,7 +84,7 @@ mycon = pymysql.connect(
 
 
 
- to do list.py
+ python main.py
 
 
 ---
